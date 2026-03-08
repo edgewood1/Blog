@@ -1,4 +1,0 @@
-Node 
-Binary – a numerical representation of something
-Stream – the movement of a sequence of data from one point to the next. 
-Buffer – the waiting area – when data moves, only a certain amount can be consumed at once.  Sometimes, its being sent fast than can be consumed, so data must sit in buffer.  Sometimes, we’re consuming faster than its begin sent, and what’s sent is associated with what hasn’t been sent, and before processing the two as a whole, waiting needs to happen, and this waiting also occurs in the buffer.  So buffer is a small physicl location in your computer – usually in the RAM, where data is temporarily sat.
